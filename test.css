@@ -1,0 +1,15 @@
+.img{
+   
+    height: 600px;
+    background-image: url("Tata_Nexon.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* opacity: 30%; */
+   filter:blur(10px);
+}
+.text{
+    margin-top: 0px;
+    color: chartreuse;
+    font-size: 50px;
+    
+}

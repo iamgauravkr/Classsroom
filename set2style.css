@@ -1,0 +1,22 @@
+/*qns 1.*/
+h1{
+    text-align: center;
+}
+
+
+#headingone{
+    text-align: center;
+    text-transform: capitalize;
+}
+/*qns 2.*/
+*{
+    font-family: 'Times New Roman';
+}
+/*qns 3.*/
+#outer{
+    line-height:25px;
+}
+#inner{
+    line-height: 10px;
+}
+ 

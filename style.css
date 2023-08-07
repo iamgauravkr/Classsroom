@@ -1,0 +1,90 @@
+p{
+    text-align: right;
+    text-decoration: dashed;
+    line-height: 20px;
+    text-transform: capitalize;
+}  
+  #headingone{
+  font-weight: 900;
+  height:100px;
+  width:400px;
+  border:3px dotted red;
+  text-align: center;
+  padding: 2px 3px 4px 5px;
+}
+#headingtwo{
+    font-weight: lighter;
+    line-height: 1;
+}
+  #headingone{
+    font-size:50px ;
+    line-height: normal;
+  }
+  div{
+    height:100px;
+    width:100px;
+    border:4px solid black;
+    background-color: green;
+  }
+  /* practice set 1 */
+  /*qns 1.*/
+  /* #box {
+   background-color:blue;
+  } */
+  /*qns 2. */
+   /* .heading {
+    color:red;
+   } */
+/* OR */
+/* .class {
+    color:red;
+} */
+
+/* or */
+/* h1, h2, h3{
+    color:red;
+} */
+
+/*qns 3. */
+/* button{
+    background-color: green;
+}
+   */
+  
+  
+  
+  /* * {
+    color:black; 
+}
+h1{
+    color:goldenrod;
+}
+button{
+    color:aqua;
+}
+#headingone{
+    color:yellowgreen;
+}
+#headingtwo{
+    color:cyan;
+}
+.myclass{
+    color:blueviolet;
+}    */
+
+/*  external sheet
+p{
+    color:green;
+    background-color: rgb(255,255,255);
+}
+pre{
+    color:indianred;
+    background-color:#ffff00;
+}
+button{
+    color:red;
+    background-color:black;
+}
+body{
+    background-color: rgb(255,255,0);
+} */
